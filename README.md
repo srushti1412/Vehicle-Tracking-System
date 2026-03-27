@@ -8,3 +8,4 @@ An SMS alert is sent to a predefined phone number with a message and a Google Ma
 ![Picture1](https://github.com/user-attachments/assets/050f81e6-04a7-4742-bbc4-6d99843e1047)
 ![Picture2](https://github.com/user-attachments/assets/94b7a4d4-0ba3-4dc9-bc38-21e52fee23ca)
 ![Picture3](https://github.com/user-attachments/assets/99ad32ff-42d3-4572-a0b6-79c9147dbbd0)
+checking for trial purpose
